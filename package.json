@@ -1,0 +1,20 @@
+{
+  "name": "myTea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvtuuu/myTea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvtuuu/myTea/issues"
+  },
+  "homepage": "https://github.com/lvtuuu/myTea#readme"
+}
