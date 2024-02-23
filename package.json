@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lvtuuu/myTea/issues"
   },
-  "homepage": "https://github.com/lvtuuu/myTea#readme"
+  "homepage": "https://github.com/lvtuuu/myTea#readme",
+  "dependencies": {
+    "simple-example-tea": "^1.0.0"
+  }
 }
